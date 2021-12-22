@@ -1,5 +1,7 @@
-# running-assistant-opencv-yolo
-**Building an AI Running Assistant to get Recommendations for optimum walking/running conditions using OpenCV, YOLOv2 and OpenWeatherMap**
+# 🏃 running-assistant-opencv-yolo
+**🏃 Building an AI Running Assistant to get Recommendations for optimum walking/running conditions using OpenCV, YOLOv2 and OpenWeatherMap**
+
+![](https://github.com/tolgakurtuluss/running-assistant-opencv-yolo/raw/main/output.png)
 
 [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/tolgakurtuluss/c20fa444ed04099d43f6dec0260df31a/bahcelievlerpark.ipynb)
 
